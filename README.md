@@ -50,6 +50,12 @@ Our COLAB Implementation can be found here: https://github.com/invisibleflame/Ne
 ### Results (improvement over SRGAN):
 <a>
 <div align="center">
+	<img src="img/mountain_esrgan.png" width="80%" height="10%"/>
+</div>
+</a>
+
+<a>
+<div align="center">
 	<img src="img/sragan_vs_esragan.png" width="80%" height="10%"/>
 </div>
 </a>
