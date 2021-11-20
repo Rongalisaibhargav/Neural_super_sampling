@@ -75,4 +75,4 @@ ESRGAN:	https://arxiv.org/abs/1809.00219
 - Punit Madia		(190100096)
 - N. V. Sai Gangadhar	(190100080)
 
-								<center>Made with 💙 </center>
+								        Made with 💙
