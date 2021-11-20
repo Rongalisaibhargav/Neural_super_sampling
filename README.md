@@ -39,7 +39,7 @@ Our COLAB Implementation can be found here: https://github.com/invisibleflame/Ne
 
 ## ESRGAN Architecture
 
-Our COLAB Implementation can be found here: https://github.com/invisibleflame/Neural_super_sampling/blob/master/SRGAN/SRGan.ipynb
+Our COLAB Implementation can be found here: https://github.com/invisibleflame/Neural_super_sampling/blob/master/Improved%20SRGAN%20(ESRGAN)/Improve_SRGAN.ipynb
 
 <a href="https://miro.medium.com/max/855/1*eFtiKIAtigow1OQGrhkWSA.png">
 <div align="center">
@@ -74,3 +74,5 @@ ESRGAN:	https://arxiv.org/abs/1809.00219
 - Bhuvan Aggarwal	(190040026)
 - Punit Madia		(190100096)
 - N. V. Sai Gangadhar	(190100080)
+
+								<center>Made with 💙 </center>
