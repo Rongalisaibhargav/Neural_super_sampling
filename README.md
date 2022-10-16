@@ -77,9 +77,5 @@ Our COLAB Implementation can be found here: https://github.com/invisibleflame/Ne
 SRGAN:	https://arxiv.org/abs/1609.04802 \
 ESRGAN:	https://arxiv.org/abs/1809.00219
 
-# Contributors:
-- Bhuvan Aggarwal	(190040026)
-- Punit Madia		(190100096)
-- N. V. Sai Gangadhar	(190100080)
 
 								        Made with 💙
